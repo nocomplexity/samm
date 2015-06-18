@@ -1,0 +1,6 @@
+Are project teams provided with a list of recommended third-party components?	
+Are project teams aware of secure design principles and do they apply them consistently?	
+Do you advertise shared security services with guidance for project teams?	
+Are project teams provided with prescriptive design patterns based on their application architecture?	
+Do project teams build software from centrally-controlled platforms and frameworks?	
+Are project teams audited for the use of secure architecture components?	

@@ -1,0 +1,7 @@
+Do project stakeholders know their project's compliance status?	
+Are compliance requirements specifically considered by project teams?	
+Does the organization utilize a set of policies and standards to control software development?	
+Are project teams able to request an audit for compliance with policies and standards?	
+Are projects periodically audited to ensure a baseline of compliance with policies and standards?	
+Does the organization systematically use audits to collect and control compliance evidence?	
+

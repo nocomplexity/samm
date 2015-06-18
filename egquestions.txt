@@ -1,0 +1,6 @@
+Have developers been given high-level security awareness training?	
+Does each project team have access to secure development best-practices and guidance?	
+Are those involved in the development process given role-specific security training and guidance?
+Are stakeholders able to pull in security coaches for use on projects?	
+Is security-related guidance centrally controlled and consistently distributed throughout your organization?	
+Are developers tested to ensure a baseline skill-set for secure development practices?

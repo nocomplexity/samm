@@ -1,0 +1,8 @@
+Is there a software security assurance program already in place?	
+Are development staff aware of future plans for the assurance program?	
+Do the business stakeholders understand your organization's risk profile?	
+Are most of your applications and resources categorized by risk?	
+Are risk ratings used to tailor the required assurance activities?	
+Does most of the organization members involved know about what's required based on risk ratings?	
+Is per-project data for the cost of assurance activities collected?	
+Does your organization regularly compare your security spend with that of other organizations?	

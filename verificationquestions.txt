@@ -1,0 +1,7 @@
+Do you document the attack perimeter of software designs?	
+Are software designs checked against known security risks?	
+Do you specifically analyze design elements for security mechanisms?	
+Are all involved stakeholders aware of how to obtain a formal design review?	
+Does the design review process incorporate detailed data-level analysis?	
+Does a minimum security baseline exist for design review results?
+

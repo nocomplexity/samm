@@ -1,0 +1,6 @@
+Do project teams specify additional security requirements during development?	
+Do project teams pull requirements from best practices and compliance guidance?	
+Do stakeholders review access control matrices for relevant projects?	
+Do project teams specify requirements based on feedback from other security activities?	
+Do stakeholders review vendor agreements for security requirements?	
+Are audits performed against the security requirements specified by project teams?	

@@ -1,0 +1,7 @@
+Do projects in your organization consider and document likely threats?	
+Does your organization understand and document the types of attackers it faces?	
+Do project teams regularly analyze functional requirements for likely abuses?	
+Do project teams use a method of rating threats for relative comparison?	
+Are stakeholders aware of relevant threats and ratings?	
+Do project teams specifically evaluate risks involved using external software?	
+Are all protection mechanisms and controls captured and mapped back to threats?	
