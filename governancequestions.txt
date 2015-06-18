@@ -1,5 +1,5 @@
 Is there a software security assurance program already in place?	
-Are development staff aware of future plans for the assurance program?	
+Is the development staff department aware of future plans for the assurance program?	
 Do the business stakeholders understand your organization's risk profile?	
 Are most of your applications and resources categorized by risk?	
 Are risk ratings used to tailor the required assurance activities?	
