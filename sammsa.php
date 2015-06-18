@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: SAMM Self Assessment 
-Plugin URI: http://www.bm-support.org
+Plugin URI: https://github.com/nocomplexity/samm
 Description: Software Assurance Maturity Model (SAMM) self Assessment for Wordpress powered sites
 Version: 0.1
 Author: Maikel Mardjan
