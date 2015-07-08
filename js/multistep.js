@@ -17,11 +17,7 @@ jQuery(document).ready(function() {
 				jQuery("#back").show();
 				jQuery("#finish").hide();
 				jQuery(".active").removeClass("active");
-				next.addClass("active");
-                                console.log(jQuery(".active").attr("id"));
-                                //console.log(jQuery("li").last().attr("id"));
-                                console.log(jQuery('#signup-step li:last-child').attr('id'));
-                                
+				next.addClass("active");                               
                                 if(jQuery(".active").attr("id") == jQuery('#signup-step li:last-child').attr('id') ) {
 					jQuery("#next").hide();
 					jQuery("#finish").show();				
