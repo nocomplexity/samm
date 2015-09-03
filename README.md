@@ -7,7 +7,7 @@ Use the shortcode:
 [samm]
 In a post or page to enable this self-assessment test!
 
-See https://nocomplexity.com/ for a live demo.
+See https://nocomplexity.com/samm/ for a live demo.
 
 # How does it work?
 This module displays a multi-step form with questions derived from SAMM 1.1. Note: This is not the complete SAMM asessment, since
